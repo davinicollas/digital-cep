@@ -1,11 +1,11 @@
 {
-    "name": "davi/php-dio-pro",
+    "name": "davinicollas/php-dio-pro",
     "description": "Busca de cep php",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-           "Waed\\DigitalCep\\": "src/"
+           "DaviNicollas\\DigitalCep\\": "src/"
         },
         "psr-0": {
             "": "src/"
