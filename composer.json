@@ -1,0 +1,23 @@
+{
+    "name": "davi/php-dio-pro",
+    "description": "Busca de cep php",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+           "Waed\\DigitalCep\\": "src/"
+        },
+        "psr-0": {
+            "": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Davi nicollas",
+            "email": "davi.nicollas@hotmail.com"
+        }
+    ],
+    "require": {
+        "php":  ">=7.2.0"
+    }
+}
